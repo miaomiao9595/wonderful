@@ -1,5 +1,6 @@
 lion
 tiger
-leopard
-turtle
-dragon
+
+leopard eats small animals
+turtle is not red
+
